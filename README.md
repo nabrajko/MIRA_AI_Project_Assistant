@@ -438,6 +438,4 @@ Developed using:
 
 ---
 
-For questions or support, contact your TPM team lead or IT administrator.
 
-**Happy Automating! 🤖✨**
